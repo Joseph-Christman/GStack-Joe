@@ -1,9 +1,9 @@
-This is a wrapper around the glib gArray data structure to provide a stack
-style experience. 
+This is a wrapper around the glib data structure gArray to provide a stack
+style interface. 
 
-This is my first time trying something like this, and I've only done a little
+This is my first time trying something like this. I've only done a little
 testing, so this probably shouldn't be used in production. I was mostly
-trying to sharpen my C skills, and my knowledge of the C language.
+trying to sharpen my C skills, and increase  my knowledge of the glib library.
 
 Functions 
 

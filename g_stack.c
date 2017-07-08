@@ -1,5 +1,4 @@
 #include "g_stack.h"
-#include <stdio.h>
 
 /**
  * g_stack_new:

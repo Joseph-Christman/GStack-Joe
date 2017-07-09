@@ -3,7 +3,7 @@ style interface.
 
 This is my first time trying something like this. I've only done a little
 testing, so this probably shouldn't be used in production. I was mostly
-trying to sharpen my C skills, and increase  my knowledge of the glib library.
+trying to sharpen my C skills, and increase my knowledge of the glib library.
 
 Functions 
 

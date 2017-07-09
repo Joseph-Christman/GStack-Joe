@@ -101,8 +101,6 @@ GStack * g_stack_ref(GStack * stack)
  * @stack: A Gstack
  *
  * Atomically decrements the reference count of @stack 
- *
- * Returns: The updated stack.
  */
 void g_stack_unref(GStack * stack) 
 {
